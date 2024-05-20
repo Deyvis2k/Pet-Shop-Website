@@ -1,0 +1,118 @@
+
+.content2{
+    height: 62.2vh;
+    width: 100%;
+    box-shadow:  10px 5px 5px 5px rgba(255, 0, 221, 0.05);
+    margin-bottom: 10rem;
+    background-color: rgb(226, 223, 223);
+    display:flex;
+ }
+ 
+ 
+
+.roll{
+    margin-top: 7rem;
+    display: flex;
+    align-items: center;
+   width: 700px;
+   height: 25vw;
+
+}
+
+#a1{
+  display: flex;
+  flex-direction: column;
+  margin-right: 2rem;
+}
+
+#a2{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.2rem;
+   
+  }
+
+
+
+#tempo{
+    color: rgb(211, 18, 114);
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    width: 270px;
+}
+
+#dog{
+    color: rgb(211, 18, 114);
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    width: 280px;
+    text-align: center;
+    
+
+}
+
+#a1 span{
+ font-size: 15.5px;
+ color: rgba(0, 0, 0, 0.616);
+ text-align: center;
+ margin-left: 2rem;
+ font-weight: bold;
+ width: 230px;
+
+}
+
+#a2 span{
+    font-size: 15.5px;
+    color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    font-weight: bold;
+    width: 231px;
+    margin-left: 2.5rem;
+   padding-right: 1rem;
+   }
+   
+
+
+#chorro1{
+    width: 37%;
+    height: 600px;
+ 
+}
+
+#c{
+    width:45px;
+    align-self: center;
+    margin-top: 0.5rem;
+    margin-bottom: 1.2rem;
+    
+}
+
+#d{
+    width: 45px;
+    align-self: center;
+    margin-top: 0.5rem;
+    margin-bottom: 1.3rem;
+  
+
+
+    
+    
+}
+
+.h2tit{
+    height: 5vh;
+    background-color: aqua;
+}
+
+#tit2{
+font-size: 55.5px;
+color: hsl(325, 100%, 50%);
+text-transform: uppercase;
+font-weight: bolder;
+text-align:center;
+margin-left: 2rem;
+
+}

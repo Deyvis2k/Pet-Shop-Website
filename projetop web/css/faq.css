@@ -1,0 +1,87 @@
+
+.box_curi{
+  margin-top:6rem;
+  max-height: 100vh;
+  max-width: 100%;
+  width: 100%;
+  padding: 5rem;
+
+}
+
+.curio{
+  justify-content: space-between;
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  width: 100%;
+  margin-left: 2rem;
+  direction: rtl;
+  
+}
+
+.tit_cr{
+  font-weight: 500;
+  margin-bottom: 1rem;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 0.596);
+  font-size: 39px;
+  font-style: oblique;
+}
+
+.box_curi details{
+  border: 1px solid silver;
+          padding: 10px;
+          margin: 10px;
+          background-color: #dddada94;
+
+}
+
+summary{
+  font-weight: bold;
+  cursor: pointer;
+  list-style-type: none;
+  padding-right: 20px;
+  font-style:oblique;
+  color: rgb(228, 81, 208);
+  font-size: 17px;
+  font-weight: 400;
+}
+
+
+
+summary::before{
+  content: "";
+          display: inline-block;
+          width: 20px;
+          height: 20px;
+          background-image: url('/projetop\ web/chat-heart-line.svg');
+          background-size: cover;
+          margin-left: 0.3rem;
+          
+}
+
+.curio span{
+  color: #7a7a7a;
+}
+
+.credits{
+  margin-bottom: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: 4rem;
+}
+
+.credit-{
+  color: rgb(150, 150, 150);
+  font-weight: 400;
+  font-size: 13px;
+
+}
+
+.credits span{
+  font-size: 11px;
+  color: rgb(150, 150, 150);;
+
+}

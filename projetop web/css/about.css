@@ -1,0 +1,52 @@
+
+.all_about{
+    background-color: rgb(255,0,255);
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+width: 100%;
+height: 8.5vh;
+display: flex;
+flex-direction: row-reverse;
+justify-content: space-around;
+position:fixed;
+top: 0;
+left: 0;
+}
+
+
+nav .textos-sobre{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 6rem;
+    list-style-type: none;
+    align-items: center;
+    margin-top: 1.6rem;
+    border: 3px solid ;
+
+    
+
+    
+}
+
+nav .textos-sobre, .c1, .c2, .c3{
+   font-size: 19px;
+   
+    
+
+}
+
+.c1:hover{
+    color: rgb(75,0,130);
+    transition: 0.5s;
+}
+
+.c2:hover{
+    color: rgb(75,0,130);
+    transition: 0.5s;
+}
+
+.c3:hover{
+    color: rgb(75,0,130);
+    transition: 0.5s;
+}
+
